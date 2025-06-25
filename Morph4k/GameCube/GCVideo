@@ -1,0 +1,22 @@
+If you are using GC Video as a converter/PreScaler for Morph4k, following settings should be configured:
+
+Output Settings:
+Allow 480p Mode	On
+Crop 486 to 480	Off
+RGB Limited Range	Off
+Enhanced DVI Mode	On
+Display as 16:9	Off
+
+View All Modes:
+240p	Linedoubler: Off
+288p	Linedoubler: Off
+480i	Linedoubler: Off
+576i	Linedoubler: Off
+
+Advanced Settings:
+Chroma Interpolation	Off	        * In Morph OSD under "Video" -> "Advanced Video", enable "RX 422 Interpolation". More Info: [1]
+Fix Resolution	Off	
+Fix Sync Timing	Off	
+Regenerate CSync	Off	
+Digital Color Format	YC422	      * In Morph OSD under "Video" -> "Advanced Video", enable "RX 422 Interpolation". More Info: [2]
+Report 240p as 480i	Off	
