@@ -14,9 +14,9 @@ View All Modes:
 576i	Linedoubler: Off
 
 Advanced Settings:
-Chroma Interpolation      Off	        * In Morph OSD under "Video" -> "Advanced Video", enable "RX 422 Interpolation". More Info: https://junkerhq.net/xrgb/index.php?title=Morph_4K#Advanced_Video
+Chroma Interpolation      Off          * In Morph OSD under "Video" -> "Advanced Video", enable "RX 422 Interpolation". More Info: https://junkerhq.net/xrgb/index.php?title=Morph_4K#Advanced_Video
 Fix Resolution            Off	
 Fix Sync Timing           Off	
 Regenerate CSync          Off	
-Digital Color Format      YC422	      * In Morph OSD under "Video" -> "Advanced Video", enable "RX 422 Interpolation". More Info: https://junkerhq.net/xrgb/index.php?title=Morph_4K#Advanced_Video
+Digital Color Format      YC422        * In Morph OSD under "Video" -> "Advanced Video", enable "RX 422 Interpolation". More Info: https://junkerhq.net/xrgb/index.php?title=Morph_4K#Advanced_Video
 Report 240p as 480i       Off	
