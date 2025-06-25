@@ -1,0 +1,2 @@
+- Remove Alpha Dithering https://www.retrorgb.com/swiss-dither-removal-option-added.html
+- Set horizontal scaling to a specific setting (Useful if you are using Digital output, improves imagequality in this case. See https://www.youtube.com/watch?v=8xEFyrbUbvU).
